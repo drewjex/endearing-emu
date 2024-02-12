@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Endearing Emu",
+  "avatar": "GeabiaaTcelraKceG",
+  "preferredColor": "lime",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
